@@ -1,0 +1,35 @@
+--Projeto checkout:
+
+--Introducao:
+
+ Devera ser desenvolvido um projeto basico com uma pagina de apresentacao de um produto (a escolha do candidato),
+ apos a compra do produto, devera seguir para uma pagina de checkout para concluir a compra do produto (apenas de boleto, nao precisa validar a compra), 
+ apos a compra, devera pular para uma pagina de agradecimento.
+
+ Deve conter uma rota que liste todos os produtos comprados, que deverao ser salvos no firebase. 
+
+ --Formulario de compra:
+
+ --Deve conter nome, endereco e telefone 
+
+--Deve haver pagina de confirmacao de compra. antes da pagina de conclusao 
+
+--Fluxo de informacao: 
+
+Sera pego o nome do produto, colocados em um contexto, apos isso devera ir para a pagina de insercao de dados, apos confirmar salvar em uma base de dados no firebase 
+
+Devera conter uma pagina para a listagem de todos os produtos comprados na loja 
+
+--Requisitos: 
+
+-React js (FrontEnd)
+
+-Tailwind (Biblioteca frontEnd)
+
+-Firebase (banco de dados)
+
+--Data de inicio: 10/11/2022
+
+--Data de entrega: 22/11/2022 -> Ate as 23:59
+
+#BoraBil
